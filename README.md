@@ -1,3 +1,5 @@
+# This guide is deprecated. Please use the [new guide](https://dsi.cfw.guide/) instead.
+
 # dsiguide.github.io (formerly www.dsiguide.me)
 <a href="https://www.dsiguide.github.io">Visit the guide here</a>
 
